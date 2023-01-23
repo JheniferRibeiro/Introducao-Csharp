@@ -6,7 +6,7 @@ Console.WriteLine("Hello, World!");
 
     // Imprimir na tela o famoso "Olá, mundo!"  
     Console.WriteLine("Olá, mundo!");
-    Console.WriteLine("Meu nome é Jhenifer!");
+    Console.WriteLine("Meu nome é Jhenifer Ribeiro!");
 
     {
     
