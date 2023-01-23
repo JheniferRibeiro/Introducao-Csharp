@@ -1,0 +1,15 @@
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\bin\Debug\net6.0\LaçosInterativos1.exe
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\bin\Debug\net6.0\LaçosInterativos1.deps.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\bin\Debug\net6.0\LaçosInterativos1.runtimeconfig.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\bin\Debug\net6.0\LaçosInterativos1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\bin\Debug\net6.0\LaçosInterativos1.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.csproj.AssemblyReference.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.AssemblyInfoInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.AssemblyInfo.cs
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.csproj.CoreCompileInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\refint\LaçosInterativos1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\LaçosInterativos1.genruntimeconfig.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\LaçosInterativos1\obj\Debug\net6.0\ref\LaçosInterativos1.dll

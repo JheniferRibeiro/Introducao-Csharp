@@ -1,0 +1,15 @@
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\bin\Debug\net6.0\OMundoDasClassesP1.exe
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\bin\Debug\net6.0\OMundoDasClassesP1.deps.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\bin\Debug\net6.0\OMundoDasClassesP1.runtimeconfig.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\bin\Debug\net6.0\OMundoDasClassesP1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\bin\Debug\net6.0\OMundoDasClassesP1.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.csproj.AssemblyReference.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.AssemblyInfoInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.AssemblyInfo.cs
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.csproj.CoreCompileInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\refint\OMundoDasClassesP1.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\OMundoDasClassesP1.genruntimeconfig.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\OMundoDasClassesP1\obj\Debug\net6.0\ref\OMundoDasClassesP1.dll

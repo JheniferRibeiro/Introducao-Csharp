@@ -1,0 +1,15 @@
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\net6.0\TiposEVariaveis.exe
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\net6.0\TiposEVariaveis.deps.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\net6.0\TiposEVariaveis.runtimeconfig.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\net6.0\TiposEVariaveis.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\net6.0\TiposEVariaveis.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.csproj.AssemblyReference.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.AssemblyInfoInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.AssemblyInfo.cs
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\refint\TiposEVariaveis.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\TiposEVariaveis.genruntimeconfig.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\net6.0\ref\TiposEVariaveis.dll

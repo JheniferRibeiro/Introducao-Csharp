@@ -1,0 +1,15 @@
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\net6.0\VoceDisseInterfaces.exe
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\net6.0\VoceDisseInterfaces.deps.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\net6.0\VoceDisseInterfaces.runtimeconfig.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\net6.0\VoceDisseInterfaces.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\bin\Debug\net6.0\VoceDisseInterfaces.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.csproj.AssemblyReference.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.AssemblyInfoInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.AssemblyInfo.cs
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\refint\VoceDisseInterfaces.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\VoceDisseInterfaces.genruntimeconfig.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\VoceDisseInterfaces\obj\Debug\net6.0\ref\VoceDisseInterfaces.dll

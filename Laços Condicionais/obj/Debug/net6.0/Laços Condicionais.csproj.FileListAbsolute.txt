@@ -1,0 +1,15 @@
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\bin\Debug\net6.0\Laços Condicionais.exe
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\bin\Debug\net6.0\Laços Condicionais.deps.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\bin\Debug\net6.0\Laços Condicionais.runtimeconfig.json
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\bin\Debug\net6.0\Laços Condicionais.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\bin\Debug\net6.0\Laços Condicionais.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.csproj.AssemblyReference.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.AssemblyInfoInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.AssemblyInfo.cs
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\refint\Laços Condicionais.dll
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.pdb
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\Laços Condicionais.genruntimeconfig.cache
+C:\Users\jheni\source\repos\InstroduçãoAoCsharpUmaAbordagemPraticaUdemy\Laços Condicionais\obj\Debug\net6.0\ref\Laços Condicionais.dll
